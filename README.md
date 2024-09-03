@@ -6,7 +6,7 @@ In this project, data was extracted from the [Citi Bike Trip Histories](https://
 
 Afterwards, a Tableau Story was built to show the results of the Exploratory data analysis.  To see the results, please go to my [Tableau Public Story.](https://public.tableau.com/views/NY_Citi_Bike_17253349302610/Citybike2023Analysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_linkhttps:/)
 
-## NOTE: GitHub has a file size limit of 100MB per file. Each 2023 CitiBike data set is over 150MB. To reproduce this project, you must download [2023-citibike-tripdata.zip.zip](https://s3.amazonaws.com/tripdata/2023-citibike-tripdata.zip), and uncompress it under a directory called "2023-data" on the root of this project. 
+### NOTE: GitHub has a file size limit of 100MB per file. Each 2023 CitiBike data set is over 150MB. To reproduce this project, you must download [2023-citibike-tripdata.zip](https://s3.amazonaws.com/tripdata/2023-citibike-tripdata.zip), and uncompress it under a directory called "2023-data" on the root of this project. 
 
 As a preview of the Tableau Story, here are some screenshots:
 
